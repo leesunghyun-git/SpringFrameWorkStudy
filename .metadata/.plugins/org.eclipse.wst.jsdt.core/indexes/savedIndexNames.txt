@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+C:\springDev\sprintStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3915428465.index
+574489402.index
+1615850839.index
