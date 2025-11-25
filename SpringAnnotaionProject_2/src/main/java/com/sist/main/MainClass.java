@@ -49,7 +49,7 @@ public class MainClass {
 			case 5:
 			{
 				System.out.println("삭제할 학생의 학번 입력:");
-				int hakbun=scan.nextInt();
+				int hakbun=scan.nextInt( );
 				service.studentDelete(hakbun);
 				break;
 			}
