@@ -16,14 +16,17 @@
 </aop-project>
 <aop-project name="SpringDIProject_1"/>
 <aop-project name="SpringDIProject_5"/>
+<aop-project name="SpringMVCBoardProject"/>
 <aop-project name="SpringMVCProject_2"/>
 <aop-project name="SpringAnnotaionProject_2"/>
 <aop-project name="SpringAnnotationProject"/>
 <aop-project name="SpringDIProject"/>
 <aop-project name="SpringDIProject_4"/>
 <aop-project name="SpringDIProject_2"/>
-<aop-project name="SpringDIPrjoect_3"/>
+<aop-project name="SpringMVCRecipeProject"/>
 <aop-project name="SpringRecipeProject"/>
+<aop-project name="SpringDIPrjoect_3"/>
 <aop-project name="SpringMVCProject_1"/>
+<aop-project name="SpringMVCFoodProject"/>
 <aop-project name="SpringFoodProject"/>
 </aop-reference-model>
